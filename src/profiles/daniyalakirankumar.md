@@ -1,4 +1,4 @@
 ---
 username: daniyalakirankumar
-fullname: YDANIYALA KIRAN KUMAR
+fullname: DANIYALA KIRAN KUMAR
 ---
